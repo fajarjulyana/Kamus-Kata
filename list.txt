@@ -1,0 +1,3 @@
+apple=Buah apel
+banana=Buah pisang
+car=Mobil
