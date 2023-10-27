@@ -1,6 +1,6 @@
 # Kamus Kata Sederhana
 <img src="capture/capture.gif">
-Ini adalah kamus kata sederhana yang dibuat dalam format teks. Kamus ini berisi daftar kata-kata beserta arti mereka dalam bahasa Indonesia.
+Ini adalah kamus kata sederhana yang dibuat dalam format teks. Kamus ini berisi daftar kata-kata bahasa inggris beserta arti mereka dalam bahasa Indonesia.
 
 ## Penggunaan
 
